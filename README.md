@@ -214,7 +214,9 @@ a.prototype-link {
 }
 
 ```
+## OUTPUT:
 
+<img width="1096" height="587" alt="Screenshot 2026-03-13 114200" src="https://github.com/user-attachments/assets/0a424f4d-48df-490c-9d82-7a91f968f4f2" />
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
